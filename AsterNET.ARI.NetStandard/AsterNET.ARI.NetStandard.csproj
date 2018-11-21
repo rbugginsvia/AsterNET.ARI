@@ -10,6 +10,7 @@
     <Company />
     <Product>AsterNET.ARI</Product>
     <Description>Asterisk ARI Api wrapper</Description>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
